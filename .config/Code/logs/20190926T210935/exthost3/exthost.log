@@ -1,0 +1,100 @@
+[2019-09-26 21:09:36.190] [exthost] [info] extension host started
+[2019-09-26 21:09:36.199] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-09-26 21:09:36.199] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/15/usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-09-26 21:09:36.201] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-09-26 21:09:36.201] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/15/usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-09-26 21:09:36.209] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-09-26 21:09:36.209] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/15/usr/share/code/resources/app/extensions/git/dist/main
+[2019-09-26 21:09:36.225] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-09-26 21:09:36.225] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/15/usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-09-26 21:09:36.226] [exthost] [info] eager extensions activated
+[2019-09-26 21:09:40.542] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.Go {"startup":false,"activationEvent":"onLanguage:go"}
+[2019-09-26 21:09:40.542] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/connor/.vscode/extensions/ms-vscode.go-0.11.6/out/src/goMain
+[2019-09-26 21:12:51.472] [exthost] [error] [ms-vscode.Go] provider FAILED
+[2019-09-26 21:12:51.472] [exthost] [error] TypeError: Invalid Version: undefined
+	at new SemVer (/home/connor/.vscode/extensions/ms-vscode.go-0.11.6/node_modules/semver/semver.js:314:11)
+	at compare (/home/connor/.vscode/extensions/ms-vscode.go-0.11.6/node_modules/semver/semver.js:647:10)
+	at Function.lt (/home/connor/.vscode/extensions/ms-vscode.go-0.11.6/node_modules/semver/semver.js:688:10)
+	at GoVersion.lt (/home/connor/.vscode/extensions/ms-vscode.go-0.11.6/out/src/util.js:111:23)
+	at /home/connor/.vscode/extensions/ms-vscode.go-0.11.6/out/src/goModules.js:63:23
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/connor/.vscode/extensions/ms-vscode.go-0.11.6/out/src/goModules.js:9:58)
+[2019-09-26 21:12:57.210] [exthost] [error] [ms-vscode.Go] provider FAILED
+[2019-09-26 21:12:57.210] [exthost] [error] undefined
+[2019-09-26 21:12:57.646] [exthost] [error] [ms-vscode.Go] provider FAILED
+[2019-09-26 21:12:57.646] [exthost] [error] undefined
+[2019-09-26 21:12:57.960] [exthost] [error] [ms-vscode.Go] provider FAILED
+[2019-09-26 21:12:57.960] [exthost] [error] undefined
+[2019-09-26 21:12:58.337] [exthost] [error] [ms-vscode.Go] provider FAILED
+[2019-09-26 21:12:58.337] [exthost] [error] undefined
+[2019-09-26 21:12:58.619] [exthost] [error] [ms-vscode.Go] provider FAILED
+[2019-09-26 21:12:58.619] [exthost] [error] undefined
+[2019-09-26 21:12:58.788] [exthost] [error] [ms-vscode.Go] provider FAILED
+[2019-09-26 21:12:58.788] [exthost] [error] undefined
+[2019-09-26 21:12:59.489] [exthost] [error] [ms-vscode.Go] provider FAILED
+[2019-09-26 21:12:59.489] [exthost] [error] undefined
+[2019-09-26 21:12:59.704] [exthost] [error] [ms-vscode.Go] provider FAILED
+[2019-09-26 21:12:59.704] [exthost] [error] undefined
+[2019-09-26 21:13:01.426] [exthost] [error] [ms-vscode.Go] provider FAILED
+[2019-09-26 21:13:01.426] [exthost] [error] undefined
+[2019-09-26 21:19:49.254] [exthost] [error] [ms-vscode.Go] provider FAILED
+[2019-09-26 21:19:49.254] [exthost] [error] undefined
+[2019-09-26 21:19:49.691] [exthost] [error] [ms-vscode.Go] provider FAILED
+[2019-09-26 21:19:49.691] [exthost] [error] undefined
+[2019-09-26 21:19:50.208] [exthost] [error] [ms-vscode.Go] provider FAILED
+[2019-09-26 21:19:50.208] [exthost] [error] undefined
+[2019-09-26 21:19:50.372] [exthost] [error] [ms-vscode.Go] provider FAILED
+[2019-09-26 21:19:50.372] [exthost] [error] undefined
+[2019-09-26 21:19:50.687] [exthost] [error] [ms-vscode.Go] provider FAILED
+[2019-09-26 21:19:50.687] [exthost] [error] undefined
+[2019-09-26 21:19:51.017] [exthost] [error] [ms-vscode.Go] provider FAILED
+[2019-09-26 21:19:51.017] [exthost] [error] undefined
+[2019-09-26 21:19:52.727] [exthost] [error] [ms-vscode.Go] provider FAILED
+[2019-09-26 21:19:52.727] [exthost] [error] undefined
+[2019-09-26 21:19:52.887] [exthost] [error] [ms-vscode.Go] provider FAILED
+[2019-09-26 21:19:52.887] [exthost] [error] undefined
+[2019-09-26 21:19:53.116] [exthost] [error] [ms-vscode.Go] provider FAILED
+[2019-09-26 21:19:53.116] [exthost] [error] undefined
+[2019-09-26 21:19:54.612] [exthost] [error] [ms-vscode.Go] provider FAILED
+[2019-09-26 21:19:54.612] [exthost] [error] undefined
+[2019-09-26 21:19:54.943] [exthost] [error] [ms-vscode.Go] provider FAILED
+[2019-09-26 21:19:54.943] [exthost] [error] undefined
+[2019-09-26 21:19:55.254] [exthost] [error] [ms-vscode.Go] provider FAILED
+[2019-09-26 21:19:55.254] [exthost] [error] undefined
+[2019-09-26 21:19:59.342] [exthost] [error] [ms-vscode.Go] provider FAILED
+[2019-09-26 21:19:59.342] [exthost] [error] undefined
+[2019-09-26 21:19:59.990] [exthost] [error] [ms-vscode.Go] provider FAILED
+[2019-09-26 21:19:59.990] [exthost] [error] undefined
+[2019-09-26 21:20:00.206] [exthost] [error] [ms-vscode.Go] provider FAILED
+[2019-09-26 21:20:00.206] [exthost] [error] undefined
+[2019-09-26 21:20:00.646] [exthost] [error] [ms-vscode.Go] provider FAILED
+[2019-09-26 21:20:00.646] [exthost] [error] undefined
+[2019-09-26 21:20:00.929] [exthost] [error] [ms-vscode.Go] provider FAILED
+[2019-09-26 21:20:00.929] [exthost] [error] undefined
+[2019-09-26 21:20:04.158] [exthost] [error] [ms-vscode.Go] provider FAILED
+[2019-09-26 21:20:04.158] [exthost] [error] TypeError: Invalid Version: undefined
+	at new SemVer (/home/connor/.vscode/extensions/ms-vscode.go-0.11.6/node_modules/semver/semver.js:314:11)
+	at compare (/home/connor/.vscode/extensions/ms-vscode.go-0.11.6/node_modules/semver/semver.js:647:10)
+	at Function.lt (/home/connor/.vscode/extensions/ms-vscode.go-0.11.6/node_modules/semver/semver.js:688:10)
+	at GoVersion.lt (/home/connor/.vscode/extensions/ms-vscode.go-0.11.6/out/src/util.js:111:23)
+	at Object.<anonymous> (/home/connor/.vscode/extensions/ms-vscode.go-0.11.6/out/src/goModules.js:63:23)
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/connor/.vscode/extensions/ms-vscode.go-0.11.6/out/src/goModules.js:9:58)
+[2019-09-26 21:20:47.226] [exthost] [error] [ms-vscode.Go] provider FAILED
+[2019-09-26 21:20:47.226] [exthost] [error] undefined
+[2019-09-26 21:20:48.054] [exthost] [error] [ms-vscode.Go] provider FAILED
+[2019-09-26 21:20:48.054] [exthost] [error] undefined
+[2019-09-26 21:20:48.210] [exthost] [error] [ms-vscode.Go] provider FAILED
+[2019-09-26 21:20:48.210] [exthost] [error] undefined
+[2019-09-26 21:20:48.426] [exthost] [error] [ms-vscode.Go] provider FAILED
+[2019-09-26 21:20:48.426] [exthost] [error] undefined
+[2019-09-26 21:20:54.180] [exthost] [error] [ms-vscode.Go] provider FAILED
+[2019-09-26 21:20:54.180] [exthost] [error] undefined
+[2019-09-26 21:21:00.702] [exthost] [error] [ms-vscode.Go] provider FAILED
+[2019-09-26 21:21:00.702] [exthost] [error] undefined
+[2019-09-26 21:21:02.314] [exthost] [error] [ms-vscode.Go] provider FAILED
+[2019-09-26 21:21:02.314] [exthost] [error] undefined
+[2019-09-26 21:21:07.906] [exthost] [error] [ms-vscode.Go] provider FAILED
+[2019-09-26 21:21:07.906] [exthost] [error] undefined
+[2019-09-26 21:21:08.444] [exthost] [error] [ms-vscode.Go] provider FAILED
+[2019-09-26 21:21:08.444] [exthost] [error] undefined

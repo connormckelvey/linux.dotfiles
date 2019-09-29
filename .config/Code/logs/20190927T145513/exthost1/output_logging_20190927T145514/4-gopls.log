@@ -1,0 +1,67 @@
+[Info  - 2:55:14 PM] 2019/09/27 14:55:14 Build info
+----------
+golang.org/x/tools/gopls v0.1.7
+    golang.org/x/tools/gopls@v0.1.7 h1:YwKf8t9h69++qCtVmc2q6fVuetFXmmu9LKoPMYLZid4=
+    golang.org/x/sync@v0.0.0-20190423024810-112230192c58 h1:8gQV6CLnAEikrhgkHFbMAEhagSSnXWGV915qUMm9mrU=
+    golang.org/x/tools@v0.0.0-20190918214516-5a1a30219888 h1:ER45Jz0UDQ3e6em1lwXVwuPf96lvyQogb7m+gEbsoPg=
+    golang.org/x/xerrors@v0.0.0-20190717185122-a985d3407aa7 h1:9zdDQZ7Thm29KFXgAX/+yaf3eVbP7djjWp/dXAppNCc=
+
+Go info
+-------
+go version go1.12.10 linux/amd64
+
+GOARCH="amd64"
+GOBIN=""
+GOCACHE="/home/connor/snap/code/common/.cache/go-build"
+GOEXE=""
+GOFLAGS=""
+GOHOSTARCH="amd64"
+GOHOSTOS="linux"
+GOOS="linux"
+GOPATH="/home/connor/go"
+GOPROXY=""
+GORACE=""
+GOROOT="/snap/go/current"
+GOTMPDIR=""
+GOTOOLDIR="/snap/go/current/pkg/tool/linux_amd64"
+GCCGO="gccgo"
+CC="gcc"
+CXX="g++"
+CGO_ENABLED="1"
+GOMOD="/home/connor/Development/hello-world/go.mod"
+CGO_CFLAGS="-g -O2"
+CGO_CPPFLAGS=""
+CGO_CXXFLAGS="-g -O2"
+CGO_FFLAGS="-g -O2"
+CGO_LDFLAGS="-g -O2"
+PKG_CONFIG="pkg-config"
+GOGCCFLAGS="-fPIC -m64 -pthread -fmessage-length=0 -fdebug-prefix-map=/tmp/go-build524072630=/tmp/go-build -gno-record-gcc-switches"
+
+[Info  - 2:55:14 PM] 2019/09/27 14:55:14 5.913386ms for GOROOT=/snap/go/current GOPATH=/home/connor/go GO111MODULE= PWD=/home/connor/Development/hello-world go "env" "GOMOD", stderr: <<>>
+
+[Info  - 2:55:14 PM] 2019/09/27 14:55:14 7.313548ms for GOROOT=/snap/go/current GOPATH=/home/connor/go GO111MODULE= PWD=/home/connor/Development/hello-world go "list" "-m" "-json" "all", stderr: <<>>
+
+[Info  - 2:55:14 PM] 2019/09/27 14:55:14 7.598031ms for GOROOT=/snap/go/current GOPATH=/home/connor/go GO111MODULE= PWD=/home/connor/Development/hello-world go "list" "-e" "-json" "-compiled=true" "-test=true" "-export=false" "-deps=true" "-find=false" "--" "builtin", stderr: <<>>
+
+[Info  - 2:55:14 PM] 2019/09/27 14:55:14 5.360849ms for GOROOT=/snap/go/current GOPATH=/home/connor/go GO111MODULE= PWD=/home/connor/Development/hello-world go "env" "GOMOD", stderr: <<>>
+
+[Info  - 2:55:14 PM] 2019/09/27 14:55:14 6.278189ms for GOROOT=/snap/go/current GOPATH=/home/connor/go GO111MODULE= PWD=/home/connor/Development/hello-world go "list" "-m" "-json" "all", stderr: <<>>
+
+[Info  - 2:55:14 PM] 2019/09/27 14:55:14 64.941899ms for GOROOT=/snap/go/current GOPATH=/home/connor/go GO111MODULE= PWD=/home/connor/Development/hello-world go "list" "-e" "-json" "-compiled=true" "-test=true" "-export=false" "-deps=true" "-find=false" "--" "/home/connor/Development/hello-world", stderr: <<>>
+
+[Info  - 2:55:14 PM] 2019/09/27 14:55:14 go/packages.Load
+	packages = 1
+[Info  - 2:55:14 PM] 2019/09/27 14:55:14 go/packages.Load
+	package = hello-world
+	files = [/home/connor/Development/hello-world/main.go]
+[Info  - 2:55:14 PM] 2019/09/27 14:55:14 4.636526ms for GOROOT=/snap/go/current GOPATH=/home/connor/go GO111MODULE= PWD=/home/connor/Development/hello-world go "env" "GOMOD", stderr: <<>>
+
+[Info  - 2:55:14 PM] 2019/09/27 14:55:14 5.592607ms for GOROOT=/snap/go/current GOPATH=/home/connor/go GO111MODULE= PWD=/home/connor/Development/hello-world go "list" "-m" "-json" "all", stderr: <<>>
+
+[Info  - 2:55:14 PM] 2019/09/27 14:55:14 62.748035ms for GOROOT=/snap/go/current GOPATH=/home/connor/go GO111MODULE= PWD=/home/connor/Development/hello-world go "list" "-e" "-json" "-compiled=true" "-test=true" "-export=false" "-deps=true" "-find=false" "--" "/home/connor/Development/hello-world", stderr: <<>>
+
+[Info  - 2:55:14 PM] 2019/09/27 14:55:14 go/packages.Load
+	packages = 1
+[Info  - 2:55:14 PM] 2019/09/27 14:55:14 go/packages.Load
+	package = hello-world
+	files = [/home/connor/Development/hello-world/main.go]

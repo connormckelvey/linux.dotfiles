@@ -1,0 +1,16 @@
+.config/arkrc
+.config/dconf
+.config/discoverrc
+.config/enchant
+.config/fcitx
+.config/gtk-*
+.config/kdeglobals
+.config/lximage-qt
+.config/procps
+.config/Qlipper
+.config/qpdfview
+.config/QtProject.conf
+.config/spotify
+.config/user-dirs.dirs
+.config/user-dirs.locale
+

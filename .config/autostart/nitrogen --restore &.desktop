@@ -1,0 +1,6 @@
+[Desktop Entry]
+Exec=nitrogen --restore
+Name=Nitrogen restor
+Type=Application
+Version=1.0
+X-LXQt-Need-Tray=true

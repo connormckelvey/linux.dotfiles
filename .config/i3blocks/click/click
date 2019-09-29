@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+while read button; do
+     echo "Got click $button"
+done

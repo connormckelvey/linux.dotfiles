@@ -1,0 +1,42 @@
+[2019-09-26 21:25:05.343] [exthost] [info] extension host started
+[2019-09-26 21:25:05.350] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.Go {"startup":false,"activationEvent":"onLanguage:go"}
+[2019-09-26 21:25:05.350] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/connor/.vscode/extensions/ms-vscode.go-0.11.6/out/src/goMain
+[2019-09-26 21:25:05.532] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-09-26 21:25:05.532] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/15/usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-09-26 21:25:05.534] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-09-26 21:25:05.534] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/15/usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-09-26 21:25:05.560] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-09-26 21:25:05.560] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/15/usr/share/code/resources/app/extensions/git/dist/main
+[2019-09-26 21:25:05.622] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-09-26 21:25:05.622] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/15/usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-09-26 21:25:05.631] [exthost] [info] eager extensions activated
+[2019-09-26 21:25:19.419] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-09-26 21:25:19.419] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/15/usr/share/code/resources/app/extensions/configuration-editing/dist/extension
+[2019-09-26 21:25:19.430] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-09-26 21:25:19.430] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/15/usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2019-09-26 21:25:19.483] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-09-26 21:25:19.483] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/15/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2019-09-26 21:30:03.651] [exthost] [info] extension host started
+[2019-09-26 21:30:03.658] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.Go {"startup":false,"activationEvent":"onLanguage:go"}
+[2019-09-26 21:30:03.658] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/connor/.vscode/extensions/ms-vscode.go-0.11.6/out/src/goMain
+[2019-09-26 21:30:03.844] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-09-26 21:30:03.844] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/15/usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-09-26 21:30:03.846] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-09-26 21:30:03.846] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/15/usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-09-26 21:30:03.873] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-09-26 21:30:03.873] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/15/usr/share/code/resources/app/extensions/git/dist/main
+[2019-09-26 21:30:03.940] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-09-26 21:30:03.940] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/15/usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-09-26 21:30:03.945] [exthost] [info] eager extensions activated
+[2019-09-26 21:30:55.201] [exthost] [info] extension host started
+[2019-09-26 21:30:55.226] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.Go {"startup":false,"activationEvent":"onLanguage:go"}
+[2019-09-26 21:30:55.226] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/connor/.vscode/extensions/ms-vscode.go-0.11.6/out/src/goMain
+[2019-09-26 21:30:55.410] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-09-26 21:30:55.410] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/15/usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-09-26 21:30:55.412] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-09-26 21:30:55.412] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/15/usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-09-26 21:30:55.439] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-09-26 21:30:55.439] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/15/usr/share/code/resources/app/extensions/git/dist/main
+[2019-09-26 21:30:55.496] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-09-26 21:30:55.496] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/15/usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-09-26 21:30:55.534] [exthost] [info] eager extensions activated
