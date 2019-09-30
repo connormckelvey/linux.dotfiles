@@ -30,6 +30,12 @@ separator_block_width=15
 # markup=none
 
 
+# Tunes
+[spotify]
+label=
+color=#4BEC90
+interval=5
+
 # Volume indicator
 #
 # The first parameter sets the step (and units to display)
