@@ -1,4 +1,5 @@
 .config/arkrc
+.config/Code
 .config/dconf
 .config/discoverrc
 .config/enchant
@@ -7,10 +8,13 @@
 .config/kdeglobals
 .config/lximage-qt
 .config/procps
+.config/pulse
 .config/Qlipper
 .config/qpdfview
 .config/QtProject.conf
 .config/spotify
 .config/user-dirs.dirs
 .config/user-dirs.locale
+.vscode
+
 
