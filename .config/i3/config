@@ -65,15 +65,19 @@ font pango:Ubuntu 12
 # Use Mouse+$mod to drag floating windows to their wanted position
 floating_modifier $mod
 
-# volume up control
+# volume control
+bindsym $mod+F1 exec pactl set-sink-mute 0 toggle
+bindsym $mod+F2 exec pactl set-sink-volume 0 -5%
 bindsym $mod+F3 exec pactl set-sink-volume 0 +5%
 
-# volume down control
-bindsym $mod+F2 exec pactl set-sink-volume 0 -5%
+# media control
+bindsym $mod+F5 exec playerctl previous 
+bindsym $mod+F6 exec playerctl play-pause 
+bindsym $mod+F7 exec playerctl next 
 
-# volume mute controle
-bindsym $mod+F1 exec pactl set-sink-mute 0 toggle
-
+# brightness control 
+bindsym $mod+F8 exec ~/bin/i3-brightness.bash dec
+bindsym $mod+F9 exec ~/bin/i3-brightness.bash inc 
 
 # screenshot
 bindsym $mod+F12 exec scrot '%Y-%m-%d-%H-%M-%S_$wx$h_scrot.png' -e 'mv $f ~/Desktop/Screenshots/'
