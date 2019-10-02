@@ -1,0 +1,37 @@
+#!/usr/bin/env bash
+
+bin_dir="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null 2>&1 && pwd )"
+
+calculate_bc() {
+  tmp="$(mktemp)"
+  bc <<< "$@" > "${tmp}" 2>&1
+  cat "${tmp}"
+  rm "${tmp}"
+}
+
+main() {
+  local answer="$(calculate_bc "$@")"
+
+  export ROFI_PROMPT="$@ = ${answer}"
+  export ROFI_LINES="Copy to Clipboard\nClose"
+
+  local response=$("${bin_dir}/rofi-prompt.bash")
+
+  case "${response}" in
+  "Copy to Clipboard")
+    xclip -selection c <<< "${answer}"
+    ;;
+  "Close")
+    exit
+    ;;
+  *)
+    if [ ! -z "${response}" ]; then
+      # Replace $ with 'answer'
+      local replaced="$(echo "${response}" | sed -r "s/\\$/$answer/g")"
+      main "${replaced}"
+    fi
+    ;;
+  esac
+}
+
+main "$@"
