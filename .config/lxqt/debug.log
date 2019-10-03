@@ -4704,3 +4704,283 @@
 2019-09-28 17:26:34.856 (0x7ffeb354db90) Critical: inotify_add_watch(/home/connor/.config/lxqt/lxqt.conf) failed: (No space left on device)
 2019-09-28 17:28:34.755 (0x7ffeb354db90) Debug: BatteryChanged discharging: false chargeLevel: 77.8489 actionTime: QTime(Invalid)
 2019-09-28 17:30:34.714 (0x7ffeb354db90) Debug: BatteryChanged discharging: false chargeLevel: 79.3 actionTime: QTime(Invalid)
+2019-10-02 20:31:02.545 (0x7fffc814b380) Debug: New PolkitAgentListener  0x564a62c154a0
+2019-10-02 20:31:02.545 (0x7fffc814b380) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7fffc814b390) for  0x564a62c154a0
+2019-10-02 20:31:02.731 (0x7ffd0ef338a0) Warning: Icon theme "elementary" not found.
+2019-10-02 20:31:02.755 (0x7ffd0ef338a0) Debug: systemd: "CanHibernate" = "na"
+2019-10-02 20:31:02.756 (0x7ffd0ef338a0) Warning: dbusGetProperty: QDBusInterface is invalid "org.freedesktop.UPower" "/org/freedesktop/UPower" "org.freedesktop.DBus.Properties" "CanHibernate"
+2019-10-02 20:31:02.758 (0x7ffd0ef338a0) Warning: dbusCall: QDBusInterface is invalid "org.freedesktop.ConsoleKit" "/org/freedesktop/ConsoleKit/Manager" "org.freedesktop.ConsoleKit.Manager" "CanHibernate"
+2019-10-02 20:31:02.801 (0x7ffd0ef338a0) Debug: systemd: "CanSuspend" = "yes"
+2019-10-02 20:31:02.813 (0x7ffd03bb2eb0) Debug: systemd: "CanReboot" = "yes"
+2019-10-02 20:31:02.829 (0x7ffd03bb2eb0) Debug: systemd: "CanPowerOff" = "yes"
+2019-10-02 20:31:08.747 (0x7fffcd0390e0) Warning: Icon theme "elementary" not found.
+2019-10-02 20:31:08.963 (0x7fffcd0390e0) Debug: Connecting to KScreen...
+2019-10-02 20:31:08.999 (0x7fffcd0390e0) Debug: Width x Height 5.18219 x 3.33849
+2019-10-02 20:31:09.000 (0x7fffcd0390e0) Debug: Width x Height 5.18219 x 3.33849
+2019-10-02 20:31:24.168 (0x7fffcd0390e0) Debug: minWidgetLength 225 maxMonitorSize 7680 scale 0.0292969
+2019-10-02 20:31:34.973 (0x7fffcd0390e0) Warning: QString::arg: Argument missing: "10 second(s) remaining" , 10
+2019-10-02 20:31:35.924 (0x7fffcd0390e0) Warning: QString::arg: Argument missing: "9 second(s) remaining" , 9
+2019-10-02 20:31:36.873 (0x7fffcd0390e0) Warning: QString::arg: Argument missing: "8 second(s) remaining" , 8
+2019-10-02 20:31:37.823 (0x7fffcd0390e0) Warning: QString::arg: Argument missing: "7 second(s) remaining" , 7
+2019-10-02 20:31:38.797 (0x7fffcd0390e0) Warning: QString::arg: Argument missing: "6 second(s) remaining" , 6
+2019-10-02 20:31:39.796 (0x7fffcd0390e0) Warning: QString::arg: Argument missing: "5 second(s) remaining" , 5
+2019-10-02 20:31:40.796 (0x7fffcd0390e0) Warning: QString::arg: Argument missing: "4 second(s) remaining" , 4
+2019-10-02 20:31:41.796 (0x7fffcd0390e0) Warning: QString::arg: Argument missing: "3 second(s) remaining" , 3
+2019-10-02 20:31:42.797 (0x7fffcd0390e0) Warning: QString::arg: Argument missing: "2 second(s) remaining" , 2
+2019-10-02 20:31:43.797 (0x7fffcd0390e0) Warning: QString::arg: Argument missing: "1 second(s) remaining" , 1
+2019-10-02 20:31:54.414 (0x7ffe198f8b90) Critical: inotify_add_watch(/home/connor/.config/lxqt/lxqt.conf) failed: (No space left on device)
+2019-10-02 20:31:54.414 (0x7ffe198f8b90) Critical: inotify_add_watch(/usr/share/icons/ePapirus/icon-theme.cache) failed: (No space left on device)
+2019-10-02 20:31:54.433 (0x7ffe198f8b90) Warning: Icon theme "elementary" not found.
+2019-10-02 20:31:54.486 (0x7ffe198f8b90) Critical: inotify_add_watch(/home/connor/.config/lxqt/lxqt.conf) failed: (No space left on device)
+2019-10-02 20:32:02.147 (0x7fffe29d6430) Critical: inotify_add_watch(/home/connor/.config/lxqt/lxqt.conf) failed: (No space left on device)
+2019-10-02 20:32:02.149 (0x7fffe29d6430) Critical: inotify_add_watch(/usr/share/icons/ePapirus/icon-theme.cache) failed: (No space left on device)
+2019-10-02 20:32:02.161 (0x7fffe29d6430) Warning: Icon theme "elementary" not found.
+2019-10-02 20:32:02.218 (0x7fffe29d6430) Critical: inotify_add_watch(/home/connor/.config/lxqt/lxqt.conf) failed: (No space left on device)
+2019-10-02 20:32:02.328 (0x7ffd03bb2eb0) Critical: inotify_add_watch(/usr/share/lxqt/themes) failed: (No space left on device)
+2019-10-02 20:32:02.328 (0x7ffd03bb2eb0) Critical: inotify_add_watch(/usr/share/lxqt/themes/Lubuntu Arc) failed: (No space left on device)
+2019-10-02 20:32:02.439 (0x7ffd36d4bcd0) Critical: inotify_add_watch(/home/connor/.config/lxqt/lxqt-powermanagement.conf) failed: (No space left on device)
+2019-10-02 20:32:02.439 (0x7ffd36d4bcd0) Critical: inotify_add_watch(/home/connor/.config/lxqt/power.conf) failed: (No space left on device)
+2019-10-02 20:32:02.440 (0x7ffd36d4bcd0) Critical: inotify_add_watch(/home/connor/.config/lxqt/lxqt-powermanagement.conf) failed: (No space left on device)
+2019-10-02 20:32:02.629 (0x7ffd36d4bcd0) Critical: inotify_add_watch(/etc/fstab) failed: (No space left on device)
+2019-10-02 20:32:02.637 (0x7ffd36d4bcd0) Warning: Icon theme "elementary" not found.
+2019-10-02 20:32:02.644 (0x7ffd36d4bcd0) Debug: BatteryChanged discharging: true chargeLevel: 49.444 actionTime: QTime(Invalid)
+2019-10-02 20:32:02.644 (0x7ffd36d4bcd0) Critical: inotify_add_watch(/home/connor/.config/lxqt/power.conf) failed: (No space left on device)
+2019-10-02 20:32:02.644 (0x7ffd36d4bcd0) Critical: inotify_add_watch(/home/connor/.config/lxqt/power.conf) failed: (No space left on device)
+2019-10-02 20:32:02.645 (0x7ffd36d4bcd0) Critical: inotify_add_watch(/home/connor/.config/lxqt/lxqt-powermanagement.conf) failed: (No space left on device)
+2019-10-02 20:32:02.649 (0x7ffd36d4bcd0) Debug: Inhibit got: 24
+2019-10-02 20:32:02.649 (0x7ffd36d4bcd0) Critical: inotify_add_watch(/home/connor/.config/lxqt/power.conf) failed: (No space left on device)
+2019-10-02 20:32:02.649 (0x7ffd36d4bcd0) Critical: inotify_add_watch(/home/connor/.config/lxqt/lxqt-powermanagement.conf) failed: (No space left on device)
+2019-10-02 20:32:02.649 (0x7ffd36d4bcd0) Debug: Starting idlenesswatcher
+2019-10-02 20:32:02.651 (0x7ffd36d4bcd0) Critical: inotify_add_watch(/home/connor/.config/lxqt/lxqt.conf) failed: (No space left on device)
+2019-10-02 20:32:26.344 (0x7fffcd0390e0) Warning: QString::arg: Argument missing: "10 second(s) remaining" , 10
+2019-10-02 20:32:27.296 (0x7fffcd0390e0) Warning: QString::arg: Argument missing: "9 second(s) remaining" , 9
+2019-10-02 20:32:28.297 (0x7fffcd0390e0) Warning: QString::arg: Argument missing: "8 second(s) remaining" , 8
+2019-10-02 20:32:28.571 (0x7fffcd0390e0) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 5315, resource id: 4194518, major code: 40 (TranslateCoords), minor code: 0
+2019-10-02 20:32:51.873 (0x7fffcd0390e0) Debug: Width x Height 3.45479 x 2.22566
+2019-10-02 20:32:53.641 (0x7fffcd0390e0) Debug: Width x Height 2.76383 x 2.37403
+2019-10-02 20:32:54.236 (0x7fffcd0390e0) Debug: Width x Height 2.59109 x 2.22566
+2019-10-02 20:32:54.586 (0x7fffcd0390e0) Debug: Width x Height 2.50472 x 2.15147
+2019-10-02 20:32:55.580 (0x7fffcd0390e0) Debug: Width x Height 2.59109 x 2.22566
+2019-10-02 20:32:56.206 (0x7fffcd0390e0) Debug: Width x Height 2.50472 x 2.15147
+2019-10-02 20:32:56.420 (0x7fffcd0390e0) Debug: Width x Height 2.41835 x 2.07728
+2019-10-02 20:32:56.795 (0x7fffcd0390e0) Debug: Width x Height 2.76383 x 1.78053
+2019-10-02 20:32:57.271 (0x7fffcd0390e0) Debug: Width x Height 2.59109 x 1.85471
+2019-10-02 20:33:02.786 (0x7fffcd0390e0) Warning: QString::arg: Argument missing: "10 second(s) remaining" , 10
+2019-10-02 20:33:03.796 (0x7fffcd0390e0) Warning: QString::arg: Argument missing: "9 second(s) remaining" , 9
+2019-10-02 20:33:04.796 (0x7fffcd0390e0) Warning: QString::arg: Argument missing: "8 second(s) remaining" , 8
+2019-10-02 20:33:05.797 (0x7fffcd0390e0) Warning: QString::arg: Argument missing: "7 second(s) remaining" , 7
+2019-10-02 20:33:06.796 (0x7fffcd0390e0) Warning: QString::arg: Argument missing: "6 second(s) remaining" , 6
+2019-10-02 20:33:07.797 (0x7fffcd0390e0) Warning: QString::arg: Argument missing: "5 second(s) remaining" , 5
+2019-10-02 20:33:08.796 (0x7fffcd0390e0) Warning: QString::arg: Argument missing: "4 second(s) remaining" , 4
+2019-10-02 20:33:09.796 (0x7fffcd0390e0) Warning: QString::arg: Argument missing: "3 second(s) remaining" , 3
+2019-10-02 20:33:13.598 (0x7fffcd0390e0) Debug: Width x Height 2.59109 x 1.66924
+2019-10-02 20:33:16.857 (0x7fffcd0390e0) Warning: QString::arg: Argument missing: "10 second(s) remaining" , 10
+2019-10-02 20:33:17.807 (0x7fffcd0390e0) Warning: QString::arg: Argument missing: "9 second(s) remaining" , 9
+2019-10-02 20:33:18.796 (0x7fffcd0390e0) Warning: QString::arg: Argument missing: "8 second(s) remaining" , 8
+2019-10-02 20:33:18.981 (0x7fffcd0390e0) Critical: inotify_add_watch(/home/connor/.config/lxqt/lxqt-config-monitor.conf) failed: (No space left on device)
+2019-10-02 20:33:18.981 (0x7fffcd0390e0) Debug: [ MonitorSettingsDialog::saveConfiguration] # monitors Read: 3
+2019-10-02 20:33:18.982 (0x7fffcd0390e0) Debug: [ MonitorSettingsDialog::saveConfiguration] # monitors Write: 4
+2019-10-02 20:33:19.005 (0x7fffcd0390e0) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 8783, resource id: 4194720, major code: 40 (TranslateCoords), minor code: 0
+2019-10-02 20:33:43.719 (0x7fffcd0390e0) Warning: QString::arg: Argument missing: "10 second(s) remaining" , 10
+2019-10-02 20:33:44.768 (0x7fffcd0390e0) Warning: QString::arg: Argument missing: "9 second(s) remaining" , 9
+2019-10-02 20:33:45.796 (0x7fffcd0390e0) Warning: QString::arg: Argument missing: "8 second(s) remaining" , 8
+2019-10-02 20:33:46.796 (0x7fffcd0390e0) Warning: QString::arg: Argument missing: "7 second(s) remaining" , 7
+2019-10-02 20:33:47.260 (0x7fffcd0390e0) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 10646, resource id: 4194730, major code: 40 (TranslateCoords), minor code: 0
+2019-10-02 20:34:02.405 (0x7ffd36d4bcd0) Debug: BatteryChanged discharging: true chargeLevel: 47.7331 actionTime: QTime(Invalid)
+2019-10-02 20:34:03.474 (0x7fffcd0390e0) Debug: Width x Height 2.59109 x 1.85471
+2019-10-02 20:34:04.453 (0x7fffcd0390e0) Debug: Width x Height 5.18219 x 3.33849
+2019-10-02 20:34:05.322 (0x7fffcd0390e0) Debug: Width x Height 2.59109 x 1.85471
+2019-10-02 20:34:05.783 (0x7fffcd0390e0) Debug: Width x Height 2.59109 x 1.66924
+2019-10-02 20:34:06.299 (0x7fffcd0390e0) Debug: Width x Height 2.15924 x 1.85471
+2019-10-02 20:34:06.873 (0x7fffcd0390e0) Debug: Width x Height 2.59109 x 1.66924
+2019-10-02 20:34:07.400 (0x7fffcd0390e0) Debug: Width x Height 2.15924 x 1.85471
+2019-10-02 20:34:07.739 (0x7fffcd0390e0) Debug: Width x Height 2.26721 x 1.62287
+2019-10-02 20:34:08.039 (0x7fffcd0390e0) Debug: Width x Height 1.7274 x 1.58269
+2019-10-02 20:34:08.405 (0x7fffcd0390e0) Debug: Width x Height 1.7274 x 1.23648
+2019-10-02 20:34:08.729 (0x7fffcd0390e0) Debug: Width x Height 1.55466 x 1.33539
+2019-10-02 20:34:09.048 (0x7fffcd0390e0) Debug: Width x Height 1.7274 x 1.11283
+2019-10-02 20:34:09.673 (0x7fffcd0390e0) Debug: Width x Height 1.38192 x 1.18702
+2019-10-02 20:34:09.958 (0x7fffcd0390e0) Debug: Width x Height 1.07962 x 0.927357
+2019-10-02 20:34:10.184 (0x7fffcd0390e0) Debug: Width x Height 0.97166 x 0.890263
+2019-10-02 20:34:10.497 (0x7fffcd0390e0) Debug: Width x Height 0.97166 x 0.741886
+2019-10-02 20:34:10.779 (0x7fffcd0390e0) Debug: Width x Height 0.863698 x 0.741886
+2019-10-02 20:34:10.983 (0x7fffcd0390e0) Debug: Width x Height 0.97166 x 0.618238
+2019-10-02 20:34:11.613 (0x7fffcd0390e0) Debug: Width x Height 0.863698 x 0.741886
+2019-10-02 20:34:11.839 (0x7fffcd0390e0) Debug: Width x Height 0.97166 x 0.741886
+2019-10-02 20:34:12.004 (0x7fffcd0390e0) Debug: Width x Height 0.97166 x 0.890263
+2019-10-02 20:34:12.189 (0x7fffcd0390e0) Debug: Width x Height 1.07962 x 0.927357
+2019-10-02 20:34:12.370 (0x7fffcd0390e0) Debug: Width x Height 1.38192 x 1.18702
+2019-10-02 20:34:12.576 (0x7fffcd0390e0) Debug: Width x Height 1.7274 x 1.11283
+2019-10-02 20:34:12.884 (0x7fffcd0390e0) Debug: Width x Height 1.55466 x 1.33539
+2019-10-02 20:34:13.290 (0x7fffcd0390e0) Debug: Width x Height 1.7274 x 1.23648
+2019-10-02 20:34:13.591 (0x7fffcd0390e0) Debug: Width x Height 1.7274 x 1.58269
+2019-10-02 20:34:14.012 (0x7fffcd0390e0) Debug: Width x Height 2.26721 x 1.62287
+2019-10-02 20:34:14.314 (0x7fffcd0390e0) Debug: Width x Height 2.15924 x 1.85471
+2019-10-02 20:34:14.605 (0x7fffcd0390e0) Debug: Width x Height 2.59109 x 1.66924
+2019-10-02 20:34:14.849 (0x7fffcd0390e0) Debug: Width x Height 2.59109 x 1.85471
+2019-10-02 20:34:15.191 (0x7fffcd0390e0) Debug: Width x Height 5.18219 x 3.33849
+2019-10-02 20:34:17.723 (0x7fffcd0390e0) Debug: Width x Height 2.59109 x 1.85471
+2019-10-02 20:34:21.462 (0x7fffcd0390e0) Warning: QString::arg: Argument missing: "10 second(s) remaining" , 10
+2019-10-02 20:34:22.414 (0x7fffcd0390e0) Warning: QString::arg: Argument missing: "9 second(s) remaining" , 9
+2019-10-02 20:34:23.362 (0x7fffcd0390e0) Warning: QString::arg: Argument missing: "8 second(s) remaining" , 8
+2019-10-02 20:34:24.313 (0x7fffcd0390e0) Warning: QString::arg: Argument missing: "7 second(s) remaining" , 7
+2019-10-02 20:34:25.296 (0x7fffcd0390e0) Warning: QString::arg: Argument missing: "6 second(s) remaining" , 6
+2019-10-02 20:34:26.297 (0x7fffcd0390e0) Warning: QString::arg: Argument missing: "5 second(s) remaining" , 5
+2019-10-02 20:34:27.296 (0x7fffcd0390e0) Warning: QString::arg: Argument missing: "4 second(s) remaining" , 4
+2019-10-02 20:34:28.296 (0x7fffcd0390e0) Warning: QString::arg: Argument missing: "3 second(s) remaining" , 3
+2019-10-02 20:34:29.296 (0x7fffcd0390e0) Warning: QString::arg: Argument missing: "2 second(s) remaining" , 2
+2019-10-02 20:34:30.103 (0x7fffcd0390e0) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 12226, resource id: 4194748, major code: 40 (TranslateCoords), minor code: 0
+2019-10-02 20:34:30.489 (0x7fffcd0390e0) Warning: QString::arg: Argument missing: "1 second(s) remaining" , 1
+2019-10-02 20:34:55.296 (0x7fffcd0390e0) Warning: QString::arg: Argument missing: "10 second(s) remaining" , 10
+2019-10-02 20:34:56.297 (0x7fffcd0390e0) Warning: QString::arg: Argument missing: "9 second(s) remaining" , 9
+2019-10-02 20:34:57.296 (0x7fffcd0390e0) Warning: QString::arg: Argument missing: "8 second(s) remaining" , 8
+2019-10-02 20:34:58.296 (0x7fffcd0390e0) Warning: QString::arg: Argument missing: "7 second(s) remaining" , 7
+2019-10-02 20:34:59.296 (0x7fffcd0390e0) Warning: QString::arg: Argument missing: "6 second(s) remaining" , 6
+2019-10-02 20:35:00.296 (0x7fffcd0390e0) Warning: QString::arg: Argument missing: "5 second(s) remaining" , 5
+2019-10-02 20:35:01.296 (0x7fffcd0390e0) Warning: QString::arg: Argument missing: "4 second(s) remaining" , 4
+2019-10-02 20:35:02.296 (0x7fffcd0390e0) Warning: QString::arg: Argument missing: "3 second(s) remaining" , 3
+2019-10-02 20:35:03.296 (0x7fffcd0390e0) Warning: QString::arg: Argument missing: "2 second(s) remaining" , 2
+2019-10-02 20:35:04.297 (0x7fffcd0390e0) Warning: QString::arg: Argument missing: "1 second(s) remaining" , 1
+2019-10-02 20:35:47.111 (0x7fffcd0390e0) Warning: QString::arg: Argument missing: "10 second(s) remaining" , 10
+2019-10-02 20:35:48.161 (0x7fffcd0390e0) Warning: QString::arg: Argument missing: "9 second(s) remaining" , 9
+2019-10-02 20:35:49.211 (0x7fffcd0390e0) Warning: QString::arg: Argument missing: "8 second(s) remaining" , 8
+2019-10-02 20:35:50.260 (0x7fffcd0390e0) Warning: QString::arg: Argument missing: "7 second(s) remaining" , 7
+2019-10-02 20:35:51.296 (0x7fffcd0390e0) Warning: QString::arg: Argument missing: "6 second(s) remaining" , 6
+2019-10-02 20:35:52.296 (0x7fffcd0390e0) Warning: QString::arg: Argument missing: "5 second(s) remaining" , 5
+2019-10-02 20:35:53.296 (0x7fffcd0390e0) Warning: QString::arg: Argument missing: "4 second(s) remaining" , 4
+2019-10-02 20:35:54.296 (0x7fffcd0390e0) Warning: QString::arg: Argument missing: "3 second(s) remaining" , 3
+2019-10-02 20:35:55.296 (0x7fffcd0390e0) Warning: QString::arg: Argument missing: "2 second(s) remaining" , 2
+2019-10-02 20:35:56.296 (0x7fffcd0390e0) Warning: QString::arg: Argument missing: "1 second(s) remaining" , 1
+2019-10-02 20:35:57.310 (0x7fffcd0390e0) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 17146, resource id: 4194801, major code: 40 (TranslateCoords), minor code: 0
+2019-10-02 20:36:02.398 (0x7ffd36d4bcd0) Debug: BatteryChanged discharging: true chargeLevel: 46.0864 actionTime: QTime(Invalid)
+2019-10-02 20:36:05.796 (0x7fffcd0390e0) Warning: QString::arg: Argument missing: "10 second(s) remaining" , 10
+2019-10-02 20:36:06.797 (0x7fffcd0390e0) Warning: QString::arg: Argument missing: "9 second(s) remaining" , 9
+2019-10-02 20:36:07.797 (0x7fffcd0390e0) Warning: QString::arg: Argument missing: "8 second(s) remaining" , 8
+2019-10-02 20:36:08.797 (0x7fffcd0390e0) Warning: QString::arg: Argument missing: "7 second(s) remaining" , 7
+2019-10-02 20:36:09.796 (0x7fffcd0390e0) Warning: QString::arg: Argument missing: "6 second(s) remaining" , 6
+2019-10-02 20:36:10.797 (0x7fffcd0390e0) Warning: QString::arg: Argument missing: "5 second(s) remaining" , 5
+2019-10-02 20:36:11.797 (0x7fffcd0390e0) Warning: QString::arg: Argument missing: "4 second(s) remaining" , 4
+2019-10-02 20:36:12.739 (0x7fffcd0390e0) Critical: inotify_add_watch(/home/connor/.config/lxqt/lxqt-config-monitor.conf) failed: (No space left on device)
+2019-10-02 20:36:12.740 (0x7fffcd0390e0) Debug: [ MonitorSettingsDialog::saveConfiguration] # monitors Read: 4
+2019-10-02 20:36:12.741 (0x7fffcd0390e0) Debug: [ MonitorSettingsDialog::saveConfiguration] # monitors Write: 5
+2019-10-02 20:36:28.428 (0x7fffcd0390e0) Warning: QString::arg: Argument missing: "10 second(s) remaining" , 10
+2019-10-02 20:36:29.379 (0x7fffcd0390e0) Warning: QString::arg: Argument missing: "9 second(s) remaining" , 9
+2019-10-02 20:36:30.326 (0x7fffcd0390e0) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 19071, resource id: 4194874, major code: 40 (TranslateCoords), minor code: 0
+2019-10-02 20:36:39.296 (0x7fffcd0390e0) Warning: QString::arg: Argument missing: "10 second(s) remaining" , 10
+2019-10-02 20:36:42.944 (0x7fffcd0390e0) Warning: QString::arg: Argument missing: "10 second(s) remaining" , 10
+2019-10-02 20:36:43.832 (0x7fffcd0390e0) Critical: inotify_add_watch(/home/connor/.config/lxqt/lxqt-config-monitor.conf) failed: (No space left on device)
+2019-10-02 20:36:43.833 (0x7fffcd0390e0) Debug: [ MonitorSettingsDialog::saveConfiguration] # monitors Read: 5
+2019-10-02 20:36:43.834 (0x7fffcd0390e0) Debug: [ MonitorSettingsDialog::saveConfiguration] # monitors Write: 6
+2019-10-02 20:37:04.837 (0x7fffcd0390e0) Warning: QString::arg: Argument missing: "10 second(s) remaining" , 10
+2019-10-02 20:37:05.439 (0x7fffcd0390e0) Critical: inotify_add_watch(/home/connor/.config/lxqt/lxqt-config-monitor.conf) failed: (No space left on device)
+2019-10-02 20:37:05.439 (0x7fffcd0390e0) Debug: [ MonitorSettingsDialog::saveConfiguration] # monitors Read: 6
+2019-10-02 20:37:05.440 (0x7fffcd0390e0) Debug: [ MonitorSettingsDialog::saveConfiguration] # monitors Write: 7
+2019-10-02 20:37:05.462 (0x7fffcd0390e0) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 22029, resource id: 6291583, major code: 40 (TranslateCoords), minor code: 0
+2019-10-02 20:38:02.407 (0x7ffd36d4bcd0) Debug: BatteryChanged discharging: true chargeLevel: 44.4183 actionTime: QTime(Invalid)
+2019-10-02 20:39:42.275 (0x7ffd474586d0) Warning: Icon theme "elementary" not found.
+2019-10-02 20:39:42.364 (0x7ffd474586d0) Debug: Connecting to KScreen...
+2019-10-02 20:39:42.376 (0x7ffd474586d0) Debug: Width x Height 2.59109 x 1.66924
+2019-10-02 20:39:42.377 (0x7ffd474586d0) Debug: Width x Height 2.59109 x 1.85471
+2019-10-02 20:39:49.768 (0x7ffd474586d0) Debug: Width x Height 5.18219 x 3.33849
+2019-10-02 20:39:53.297 (0x7ffd474586d0) Warning: QString::arg: Argument missing: "10 second(s) remaining" , 10
+2019-10-02 20:39:54.297 (0x7ffd474586d0) Warning: QString::arg: Argument missing: "9 second(s) remaining" , 9
+2019-10-02 20:39:55.297 (0x7ffd474586d0) Warning: QString::arg: Argument missing: "8 second(s) remaining" , 8
+2019-10-02 20:39:56.297 (0x7ffd474586d0) Warning: QString::arg: Argument missing: "7 second(s) remaining" , 7
+2019-10-02 20:39:57.296 (0x7ffd474586d0) Warning: QString::arg: Argument missing: "6 second(s) remaining" , 6
+2019-10-02 20:39:58.296 (0x7ffd474586d0) Warning: QString::arg: Argument missing: "5 second(s) remaining" , 5
+2019-10-02 20:40:02.411 (0x7ffd36d4bcd0) Debug: BatteryChanged discharging: true chargeLevel: 42.8144 actionTime: QTime(Invalid)
+2019-10-02 20:41:57.938 (0x7ffe61ccbe90) Debug: New PolkitAgentListener  0x559dd14be4a0
+2019-10-02 20:41:57.941 (0x7ffe61ccbe90) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7ffe61ccbea0) for  0x559dd14be4a0
+2019-10-02 20:41:58.078 (0x7ffde864f620) Warning: Icon theme "elementary" not found.
+2019-10-02 20:41:58.104 (0x7ffde864f620) Debug: systemd: "CanHibernate" = "na"
+2019-10-02 20:41:58.106 (0x7ffde864f620) Warning: dbusGetProperty: QDBusInterface is invalid "org.freedesktop.UPower" "/org/freedesktop/UPower" "org.freedesktop.DBus.Properties" "CanHibernate"
+2019-10-02 20:41:58.107 (0x7ffde864f620) Warning: dbusCall: QDBusInterface is invalid "org.freedesktop.ConsoleKit" "/org/freedesktop/ConsoleKit/Manager" "org.freedesktop.ConsoleKit.Manager" "CanHibernate"
+2019-10-02 20:41:58.117 (0x7ffde864f620) Debug: systemd: "CanSuspend" = "yes"
+2019-10-02 20:41:58.135 (0x7ffe4d8e97c0) Debug: systemd: "CanReboot" = "yes"
+2019-10-02 20:41:58.144 (0x7ffe4d8e97c0) Debug: systemd: "CanPowerOff" = "yes"
+2019-10-03 08:17:34.925 (0x7ffe09211390) Critical: inotify_add_watch(/usr/share/icons/ePapirus/icon-theme.cache) failed: (No space left on device)
+2019-10-03 08:17:34.942 (0x7ffe09211390) Warning: Icon theme "elementary" not found.
+2019-10-03 08:18:19.649 (0x7ffe4d8e97c0) Critical: inotify_add_watch(/usr/share/lxqt/themes) failed: (No space left on device)
+2019-10-03 08:18:19.649 (0x7ffe4d8e97c0) Critical: inotify_add_watch(/usr/share/lxqt/themes/Lubuntu Arc) failed: (No space left on device)
+2019-10-03 08:18:19.714 (0x7fffbd0bb670) Critical: inotify_add_watch(/home/connor/.config/lxqt/lxqt.conf) failed: (No space left on device)
+2019-10-03 08:18:19.715 (0x7fffbd0bb670) Critical: inotify_add_watch(/home/connor/.config/lxqt/lxqt-powermanagement.conf) failed: (No space left on device)
+2019-10-03 08:18:19.716 (0x7fffbd0bb670) Critical: inotify_add_watch(/home/connor/.config/lxqt/power.conf) failed: (No space left on device)
+2019-10-03 08:18:19.716 (0x7fffbd0bb670) Critical: inotify_add_watch(/home/connor/.config/lxqt/lxqt-powermanagement.conf) failed: (No space left on device)
+2019-10-03 08:18:19.856 (0x7fffbd0bb670) Critical: inotify_add_watch(/etc/fstab) failed: (No space left on device)
+2019-10-03 08:18:19.864 (0x7fffbd0bb670) Warning: Icon theme "elementary" not found.
+2019-10-03 08:18:19.873 (0x7fffbd0bb670) Debug: BatteryChanged discharging: true chargeLevel: 100 actionTime: QTime(Invalid)
+2019-10-03 08:18:19.874 (0x7fffbd0bb670) Critical: inotify_add_watch(/home/connor/.config/lxqt/power.conf) failed: (No space left on device)
+2019-10-03 08:18:19.874 (0x7fffbd0bb670) Critical: inotify_add_watch(/home/connor/.config/lxqt/power.conf) failed: (No space left on device)
+2019-10-03 08:18:19.874 (0x7fffbd0bb670) Critical: inotify_add_watch(/home/connor/.config/lxqt/lxqt-powermanagement.conf) failed: (No space left on device)
+2019-10-03 08:18:19.879 (0x7fffbd0bb670) Debug: Inhibit got: 24
+2019-10-03 08:18:19.880 (0x7fffbd0bb670) Critical: inotify_add_watch(/home/connor/.config/lxqt/power.conf) failed: (No space left on device)
+2019-10-03 08:18:19.880 (0x7fffbd0bb670) Critical: inotify_add_watch(/home/connor/.config/lxqt/lxqt-powermanagement.conf) failed: (No space left on device)
+2019-10-03 08:18:19.880 (0x7fffbd0bb670) Debug: Starting idlenesswatcher
+2019-10-03 08:18:19.881 (0x7fffbd0bb670) Critical: inotify_add_watch(/home/connor/.config/lxqt/lxqt.conf) failed: (No space left on device)
+2019-10-03 08:18:19.882 (0x7fffbd0bb670) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 178, resource id: 4194366, major code: 20 (GetProperty), minor code: 0
+2019-10-03 08:18:19.882 (0x7fffbd0bb670) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 179, resource id: 4194366, major code: 20 (GetProperty), minor code: 0
+2019-10-03 08:25:20.744 (0x7ffd9af1b760) Debug: New PolkitAgentListener  0x561680e150a0
+2019-10-03 08:25:20.744 (0x7ffd9af1b760) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7ffd9af1b770) for  0x561680e150a0
+2019-10-03 08:25:20.862 (0x7ffee394b5d0) Warning: Icon theme "elementary" not found.
+2019-10-03 08:25:20.882 (0x7ffee394b5d0) Debug: systemd: "CanHibernate" = "na"
+2019-10-03 08:25:20.884 (0x7ffee394b5d0) Warning: dbusGetProperty: QDBusInterface is invalid "org.freedesktop.UPower" "/org/freedesktop/UPower" "org.freedesktop.DBus.Properties" "CanHibernate"
+2019-10-03 08:25:20.885 (0x7ffee394b5d0) Warning: dbusCall: QDBusInterface is invalid "org.freedesktop.ConsoleKit" "/org/freedesktop/ConsoleKit/Manager" "org.freedesktop.ConsoleKit.Manager" "CanHibernate"
+2019-10-03 08:25:20.921 (0x7ffee394b5d0) Debug: systemd: "CanSuspend" = "yes"
+2019-10-03 08:25:20.940 (0x7ffcb305f780) Debug: systemd: "CanReboot" = "yes"
+2019-10-03 08:25:20.947 (0x7ffcb305f780) Debug: systemd: "CanPowerOff" = "yes"
+2019-10-03 08:25:23.949 (0x7fff52fdeeb0) Warning: Icon theme "elementary" not found.
+2019-10-03 08:26:21.009 (0x7ffcb305f780) Critical: inotify_add_watch(/usr/share/lxqt/themes) failed: (No space left on device)
+2019-10-03 08:26:21.009 (0x7ffcb305f780) Critical: inotify_add_watch(/usr/share/lxqt/themes/Lubuntu Arc) failed: (No space left on device)
+2019-10-03 08:26:21.059 (0x7ffe5244e150) Critical: inotify_add_watch(/home/connor/.config/lxqt/lxqt-powermanagement.conf) failed: (No space left on device)
+2019-10-03 08:26:21.060 (0x7ffe5244e150) Critical: inotify_add_watch(/home/connor/.config/lxqt/power.conf) failed: (No space left on device)
+2019-10-03 08:26:21.060 (0x7ffe5244e150) Critical: inotify_add_watch(/home/connor/.config/lxqt/lxqt-powermanagement.conf) failed: (No space left on device)
+2019-10-03 08:26:21.207 (0x7ffe5244e150) Critical: inotify_add_watch(/etc/fstab) failed: (No space left on device)
+2019-10-03 08:26:21.216 (0x7ffe5244e150) Warning: Icon theme "elementary" not found.
+2019-10-03 08:26:21.224 (0x7ffe5244e150) Debug: BatteryChanged discharging: true chargeLevel: 95.9329 actionTime: QTime(Invalid)
+2019-10-03 08:26:21.224 (0x7ffe5244e150) Critical: inotify_add_watch(/home/connor/.config/lxqt/power.conf) failed: (No space left on device)
+2019-10-03 08:26:21.225 (0x7ffe5244e150) Critical: inotify_add_watch(/home/connor/.config/lxqt/power.conf) failed: (No space left on device)
+2019-10-03 08:26:21.225 (0x7ffe5244e150) Critical: inotify_add_watch(/home/connor/.config/lxqt/lxqt-powermanagement.conf) failed: (No space left on device)
+2019-10-03 08:26:21.229 (0x7ffe5244e150) Debug: Inhibit got: 24
+2019-10-03 08:26:21.230 (0x7ffe5244e150) Critical: inotify_add_watch(/home/connor/.config/lxqt/power.conf) failed: (No space left on device)
+2019-10-03 08:26:21.230 (0x7ffe5244e150) Critical: inotify_add_watch(/home/connor/.config/lxqt/lxqt-powermanagement.conf) failed: (No space left on device)
+2019-10-03 08:26:21.230 (0x7ffe5244e150) Debug: Starting idlenesswatcher
+2019-10-03 08:26:21.234 (0x7ffe5244e150) Critical: inotify_add_watch(/home/connor/.config/lxqt/lxqt.conf) failed: (No space left on device)
+2019-10-03 08:28:18.234 (0x7fff52fdeeb0) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2019-10-03 08:28:19.332 (0x7ffe5244e150) Debug: BatteryChanged discharging: true chargeLevel: 94.7278 actionTime: QTime(Invalid)
+2019-10-03 08:28:49.243 (0x7fff52fdeeb0) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2019-10-03 08:28:49.243 (0x7fff52fdeeb0) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2019-10-03 08:28:49.243 (0x7fff52fdeeb0) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2019-10-03 08:30:19.333 (0x7ffe5244e150) Debug: BatteryChanged discharging: true chargeLevel: 93.3505 actionTime: QTime(Invalid)
+2019-10-03 08:31:31.243 (0x7fff52fdeeb0) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2019-10-03 08:31:31.243 (0x7fff52fdeeb0) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2019-10-03 08:31:31.244 (0x7fff52fdeeb0) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2019-10-03 08:31:31.244 (0x7fff52fdeeb0) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2019-10-03 08:31:31.244 (0x7fff52fdeeb0) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2019-10-03 08:32:19.334 (0x7ffe5244e150) Debug: BatteryChanged discharging: true chargeLevel: 91.9948 actionTime: QTime(Invalid)
+2019-10-03 08:34:19.337 (0x7ffe5244e150) Debug: BatteryChanged discharging: true chargeLevel: 90.7252 actionTime: QTime(Invalid)
+2019-10-03 08:36:19.356 (0x7ffe5244e150) Debug: BatteryChanged discharging: true chargeLevel: 89.5847 actionTime: QTime(Invalid)
+2019-10-03 08:38:19.300 (0x7ffe5244e150) Debug: BatteryChanged discharging: true chargeLevel: 88.4872 actionTime: QTime(Invalid)
+2019-10-03 08:38:49.244 (0x7fff52fdeeb0) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2019-10-03 08:38:49.244 (0x7fff52fdeeb0) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2019-10-03 08:38:49.244 (0x7fff52fdeeb0) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2019-10-03 08:38:49.244 (0x7fff52fdeeb0) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2019-10-03 08:38:49.244 (0x7fff52fdeeb0) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2019-10-03 08:38:49.244 (0x7fff52fdeeb0) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2019-10-03 08:38:49.245 (0x7fff52fdeeb0) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2019-10-03 08:39:08.040 (0x7ffcb305f780) Warning: The X11 connection broke (error 1). Did the X11 server die?
