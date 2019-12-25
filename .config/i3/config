@@ -19,7 +19,7 @@ bar {
     position top
     tray_output none
     mode dock
-    height 32
+    height 56
     font pango: Ubuntu 12
     status_command 		i3blocks
     colors {

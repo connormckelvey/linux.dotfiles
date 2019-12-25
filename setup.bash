@@ -6,6 +6,7 @@ config_dir="$HOME/.config"
 # Symlink $HOME/* dotfiles
 cd $HOME && rm -rf .bashrc && ln -s linux.dotfiles/.bashrc .bashrc
 cd $HOME && rm -rf .profile && ln -s linux.dotfiles/.profile
+cd $HOME && rm -rf .bash_it && ln -s linux.dotfiles/.bash_it .bash_it
 cd $HOME && rm -rf .Xresources && ln -s linux.dotfiles/.Xresources .Xresources
 cd $HOME && rm -rf bin && ln -s linux.dotfiles/bin bin
 # End Symlink $HOME/* dotfiles
